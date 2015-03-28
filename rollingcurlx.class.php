@@ -5,6 +5,7 @@
 **
 **  a fork of Rolling Curl (http://code.google.com/p/rolling-curl/)
 */
+namespace marcushat\RollingCurlX;
 Class RollingCurlX {
     private $_maxConcurrent = 0; //max. number of simultaneous connections allowed
     private $_options = []; //shared cURL options
