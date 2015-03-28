@@ -1,6 +1,6 @@
 {
     "name": "marcushat/RollingCurlX",
     "autoload": {
-        "psr-4": {"marcushat\\": "/"}
+        "psr-0": {"marcushat\\": "/"}
     }
 }
